@@ -1,4 +1,4 @@
-# West-Nile-Virus-Project
+# West Nile Virus Project
 
 This a project about the West Nile Virus I completed using python in Jupyter notebook. 
 
